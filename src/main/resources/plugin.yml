@@ -1,0 +1,4 @@
+name: Moderation
+version: '${project.version}'
+main: club.flower.moderation.Moderation
+authors: [elisa]
