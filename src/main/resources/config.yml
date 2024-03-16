@@ -1,0 +1,48 @@
+no-permission: "&cYou got no perms."
+
+command:
+  syntax-bypass-perm: moderation.owner
+  anti-syntax-message: "&cYou can't execute &4{argument}&c."
+
+on-join:
+  enable-staff-mode: false
+
+staff-mode:
+  enabled: "&fStaff Mode &aEnabled"
+  disabled: "&fStaff Mode &cDisabled"
+  items:
+    compass:
+      displayname: "&6Compass"
+      material: COMPASS
+      data: 0
+      slot: 0
+    inspector:
+      displayname: "&6Inspector"
+      material: BOOK
+      data: 0
+      slot: 1
+    world-edit:
+      displayname: "&6World Edit"
+      material: WOOD_AXE
+      data: 0
+      slot: 2
+    freeze:
+      displayname: "&6Freeze"
+      material: PACKED_ICE
+      data: 0
+      slot: 4
+    random-teleport:
+      displayname: "&6Random Teleport"
+      material: WATCH
+      data: 0
+      slot: 7
+    vanish-on:
+      displayname: "&6Vanish&7: &a&lON"
+      material: INK_SACK
+      data: 10
+      slot: 8
+    vanish-off:
+      displayname: "&6Vanish&7: &c&lOFF"
+      material: INK_SACK
+      data: 8
+      slot: 8

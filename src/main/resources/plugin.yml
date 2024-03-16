@@ -1,4 +1,5 @@
 name: Moderation
 version: '${project.version}'
 main: club.flower.moderation.Moderation
-authors: [elisa]
+author: Emmy
+description: fork of Risas StaffMode plugin
