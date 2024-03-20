@@ -4,9 +4,6 @@ command:
   syntax-bypass-perm: moderation.owner
   anti-syntax-message: "&cYou can't execute &4{argument}&c."
 
-on-join:
-  enable-staff-mode: false
-
 staff-mode:
   enabled: "&fStaff Mode &aEnabled"
   disabled: "&fStaff Mode &cDisabled"
